@@ -152,5 +152,4 @@ async def cb_handler(client: Client, query: CallbackQuery):
         except:
             pass
     elif query.data=="help":
-        await query.edit_message_text(" **Hi Bruh**, \nJust Send Me An Audio File To Play. You Can Use @Kerala_kings_Queenz To Get Audio Files! 😌\n\nCheck /help To Know More ...")
-
+        await query.edit_message_text(" (" *Sorry, I Can't Help You! Because My Creator's Won't Allow To Do That .*")
