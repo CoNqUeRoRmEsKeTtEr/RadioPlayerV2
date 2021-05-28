@@ -22,9 +22,9 @@ from pyrogram import Client, filters
 
 
 
-HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Radio Player Bot** \nI Can Play Radio/Stream Music In Channels & Groups 24x7 Nonstop. Made with ❤️ By @MalluTorentzGroup!"
+HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Radio Player Bot** \nI Can Play Radio/Stream Music In Channels & Groups 24x7 Nonstop. Made with ❤️ By @Kerala_kings_Queenz!"
 HELP = """🏷️ **Need Help?** 🤔
-__(join @MalluTorentzGroup)__
+__(join @Kerala_kings_Queenz)__
 
 🏷️ **Common Commands**:
 \u2022 `/play` reply to an audio to play or queue it
