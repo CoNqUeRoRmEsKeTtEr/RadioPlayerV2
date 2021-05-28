@@ -22,7 +22,12 @@ from pyrogram import Client, filters
 
 
 
-HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Radio Player Bot** \nI Can Play Radio/Stream Music In Channels & Groups 24x7 Nonstop. Made with ❤️ By @Kerala_kings_Queenz!"
+HOME_TEXT = "**Sorry, This Bot Can Only Be Used In @Kerala_kings_Queenz..!**\n\nQueries, @CoNqUeRoRmEsKeTtEr!"
+
+
+
+
+!"
 HELP = """🏷️ **Need Help?** 🤔
 __(join @Kerala_kings_Queenz)__
 
@@ -49,7 +54,7 @@ __(join @Kerala_kings_Queenz)__
 \u2022 `unmute` unmute the VC userbot
 \u2022 `/restart` restart the bot
 
-🏷️ **Queries: @Fex_On** 👑
+🏷️ **Queries: @CoNqUeRoRmEsKeTtEr** 👑
 """
 
 
